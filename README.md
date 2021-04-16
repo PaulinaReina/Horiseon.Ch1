@@ -32,8 +32,7 @@ Live Link:
 https://paulinareina.github.io/Horiseon.Ch1/
 
 
-
-
+Screenshoot it is provided on the Github Repository.
 
 
 
