@@ -75,7 +75,7 @@ p {
     margin-left: 20px;
 }
 
-/* minimalized the content-div CSS, from 3 same styles to just one. Under one Class */
+/* minimized the content-div CSS, from 3 same styles to just one. Under one Class */
 .content div {
     margin-bottom: 20px;
     padding: 50px;
@@ -85,12 +85,12 @@ p {
     color: #ffffff;
 }
 
-/* minimalized the content-img CSS, from 3 same max-height to just one. Under one Class */
+/* minimized the content-img CSS, from 3 same max-height to just one. Under one Class */
 .content img {
     max-height: 200px;
 }
 
-/* minimalized the content-h2 CSS, from 3 same margin-bottom & font-size to just one. Under one Class */
+/* minimized the content-h2 CSS, from 3 same margin-bottom & font-size to just one. Under one Class */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -107,20 +107,20 @@ p {
     background-color: #2589bd;
 }
 
-/* minimalized the benefits-p's CSS, from 3 same margin-bottom & color to just one. Under one Class */
+/* minimized the benefits-p's CSS, from 3 same margin-bottom & color to just one. Under one Class */
 .benefits p {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/* minimalized the benefits-h3's CSS, from 3 same margin-bottom & text-align to just one. Under one Class */
+/* minimized the benefits-h3's CSS, from 3 same margin-bottom & text-align to just one. Under one Class */
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
     color: #ffffff;
 }
 
-/* minimalized the benefits img's CSS, from 3 same display, margin & max-width to just one. Under one Class */
+/* minimized the benefits img's CSS, from 3 same display, margin & max-width to just one. Under one Class */
 .benefits img {
     display: block;
     margin: 10px auto;
