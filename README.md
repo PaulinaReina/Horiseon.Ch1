@@ -27,6 +27,12 @@ Sixth it was the image (img) area, under the class "benefits". Starting on line 
 
 In conclusion, it had a minimal update on the Index.html code. with a deep and simple organization on the Style.css sheet. To make it functional and organized. 
 
+Live Link:
+
+https://paulinareina.github.io/Horiseon.Ch1/
+
+
+
 
 
 
